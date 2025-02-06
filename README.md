@@ -1,1 +1,1 @@
-<em> Reto "Amigo secreto" </em>
+<h1 align="center"> Reto "Amigo secreto" </h1>
