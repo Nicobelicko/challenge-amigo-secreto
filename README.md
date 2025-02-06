@@ -10,3 +10,7 @@ Este es un proyecto presentado como reto en el Programa ORACLE ONE, donde el obj
 - `Funcionalidad 3`: Sortear amigos de la lista de forma aleatoria y elegir uno para mostrar en pantalla.
 
 
+
+
+https://github.com/user-attachments/assets/16d4346b-6799-415b-8e47-56ce667b2b16
+
