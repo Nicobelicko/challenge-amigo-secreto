@@ -1,2 +1,3 @@
 <h1 align="center"> Reto "Amigo secreto" </h1>
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-TERMINADO-green">
+Este es un proyecto presentado como reto en el Programa ORACLE ONE, donde el objetivo es prácticar lo aprendido sobre las herramientas: HTML, CSS, JavaScript en un juego llamado "Amigo Secreto". Este juego consiste en agregar amigos a una lista de amigos la cual se irán mostrando en la página cada que vayamos agregando. El juego controla en caso de que se quieran agregar nombres vacíos a la lista. Al presionar el botón de sortear amigos la página elige un amigo de la lista de forma aleatoria y lo muestra en pantalla.
